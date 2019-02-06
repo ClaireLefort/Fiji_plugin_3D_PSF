@@ -1,4 +1,4 @@
-# Fiji_plugin_3D_PSF_multiphoton_microscopy
+# Fiji_plugin_3D_PSF_Optical_microscopy
 
 A plugin of Fiji (ImageJ) for fitting PSF of microscopes with 3D Gaussian shapes, from microsphere acquisitions possibly in high noise context
 
